@@ -8,15 +8,15 @@ The purpose of this project was to learn how to take data that is stored as a `J
 ## Results:
 ### Welcome to UFO Sightings! 
 
-![Pic 1](static/images/intro.PNG)
+![Pic 1](/static/images/intro.PNG)
 
 ### How the filters appear when first landing on the page:
-![Pic 2](static/images/initial_filter.PNG)
+![Pic 2](/static/images/initial_filter.PNG)
 
 ### How the filters appear after being used: 
 By typing in the suggested placeholder elements as the filters, the result returns 2 matches. Make sure to type everything in lower case letters and do not have spaces at the end of the text. Click off the input box or press enter to initiate the filter. To reset the filter criteria, click the UFO Sightings at the top left of the website. 
 
-![Pic 3](static/images/fillters_used.PNG)
+![Pic 3](/static/images/fillters_used.PNG)
 
 
 ## Summary: 
